@@ -7,7 +7,7 @@ import {Seo} from "../components/seo"
 const SecondPage = () => (
   <Layout>
     <div className="container text-center my-5">
-      <h1>Hi from the second page</h1>
+      <h1>Helloo from the second page</h1>
       <p>Welcome to page 2</p>
       <Link to="/">Go back to the homepage</Link>
     </div>
