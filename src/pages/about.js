@@ -19,7 +19,7 @@ const AboutPage = () => (
         </p>
         <p>Created by <a href="https://github.com/r-ichard" target="_blank" rel="noopener noreferrer">Richard Raduly</a></p>
       </div>
-      <Link to="/">Go back to the homepage</Link>
+      <Link to="/">Click here to Go back to the homepage</Link>
     </div>
   </Layout>
 )
